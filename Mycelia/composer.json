@@ -1,0 +1,7 @@
+{
+    "require": {
+        "steampixel/simple-php-router": "^0.7.0",
+        "catfan/medoo": "^2.1",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
